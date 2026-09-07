@@ -1,0 +1,207 @@
+== Indian Classical Music: A Detailed Knowledge Base ==
+
+This document is a reference on Indian classical music, organized from foundational to advanced concepts (broadly mirroring how Junior, Senior, and Vidwat-level music education progresses): starting with basic sound theory, moving to ragas, talas, and instruments, and finishing with composition forms, historical treatises, and named composers. Each topic is written as a self-contained entry, separated by a blank line, so it can be retrieved independently by a search system.
+
+
+== Foundations: Sound, Swara, and Shruti ==
+
+Nada and Shruti
+
+Nada refers to musical sound in general, as distinct from noise. Shruti refers to the smallest perceivable difference in pitch; Indian classical music theory traditionally recognizes 22 shrutis within a single octave, far more granular than the 12 semitones of Western music, which is part of why raga ornamentation involves subtle pitch bends that don't map cleanly onto a piano keyboard. Aadhara shruti is the base pitch a performer chooses for a given performance, set by the tanpura drone, around which all other notes are measured relative.
+
+Saptak (The Octave) and the Seven Swaras
+
+A saptak is one octave, containing seven basic swaras (notes): Sa, Re (or Ri), Ga, Ma, Pa, Dha, Ni, after which the cycle repeats an octave higher. Sa (the tonic) and Pa (the fifth) are fixed, unchangeable notes called achala swaras. The other five notes can each take a natural (shuddha) or altered (komal/flattened, or teevra/raised) form, which is what distinguishes one raga's note set from another's. A performance typically spans three octaves: mandra (lower), madhya (middle), and taar (upper).
+
+Prakriti and Vikriti Swaras
+
+Prakriti swaras are the natural, unaltered forms of a note. Vikriti swaras are altered forms: komal (flattened) versions of Re, Ga, Dha, and Ni, and teevra (raised) versions of Ma. Since Sa and Pa never change, a raga is essentially defined by which vikriti versions of the remaining five notes it selects.
+
+Laya (Tempo)
+
+Laya refers to the tempo or pace of a performance and is generally described in three broad speeds: vilambit (slow), madhya (medium), and drut (fast). A typical Hindustani performance moves through these speeds progressively, starting with a slow, exploratory alap and building to a fast, rhythmically dense conclusion.
+
+
+== Beginner-Level Practice: Alankaras and Varishais ==
+
+Sarali Varishai
+
+Sarali varishai are the very first vocal exercises taught to a Carnatic music student: simple ascending and descending sequences sung in the basic major-scale raga (Mayamalavagowla or Sankarabharanam, depending on the tradition), used to build basic pitch accuracy and breath control before any raga-specific ornamentation is introduced.
+
+Jantai and Datu Varishai
+
+Jantai varishai are exercises where each note is repeated twice before moving to the next, building finger and voice control for steady, even notes. Datu varishai involve deliberately skipping notes (rather than moving stepwise) to build comfort with wider melodic jumps, which prepares a student for the non-linear phrasing found in real ragas.
+
+Alankaras
+
+Alankaras are rhythmic-melodic exercises that combine the seven basic swaras with a fixed tala pattern, traditionally practiced in a set of seven standard alankaras corresponding to seven common talas. They train a student to keep steady rhythm while singing, bridging the gap between pure pitch exercises and full composition singing.
+
+Overview: Two Traditions
+
+Indian classical music has two major branches. Hindustani classical music developed in northern India and was shaped over centuries by Persian and Central Asian influences arriving through the Mughal courts. Carnatic classical music developed in southern India and preserved a more continuous link to ancient Sanskrit musical treatises. Both systems share the foundational concepts of raga (melodic framework) and tala (rhythmic framework), but differ in terminology, repertoire, instruments, and performance style.
+
+
+== What Is a Raga? ==
+
+A raga is a melodic framework for improvisation in Indian classical music. It is not simply a scale: a raga specifies which notes may be used, the order in which they typically ascend (aroha) and descend (avaroha), which notes should be emphasized or avoided, characteristic melodic phrases (pakad), and the mood or emotional color (rasa) it is meant to evoke. Ragas are traditionally associated with specific times of day or seasons, based on the idea that certain melodic combinations resonate best at certain hours. There are hundreds of ragas in use, built from an underlying set of parent scales called thaats in Hindustani music, or melakarta scales in Carnatic music.
+
+Raga: Yaman
+
+Yaman is one of the most fundamental ragas in Hindustani classical music, often the first raga taught to students. It belongs to the Kalyan thaat and uses a raised (teevra) fourth note along with all other natural notes. It is performed in the evening and has a serene, devotional, and romantic mood. Its ascending pattern omits the natural fourth in favor of the raised fourth, and it is known for slow, meditative phrases that dwell on the middle octave.
+
+Raga: Bhairav
+
+Bhairav is an early-morning raga in Hindustani music, named after a fierce form of the god Shiva. It uses a flattened second and flattened sixth note, giving it a solemn, devotional, and somewhat austere character. Bhairav is considered one of the oldest and most important thaats, and many other ragas (such as Ahir Bhairav and Bhairavi) are derived from or related to it. It is traditionally performed to open a morning concert.
+
+Raga: Bhairavi
+
+Bhairavi uses all flattened notes except the tonic and fifth, giving it a rich, plaintive, and deeply emotional quality. In Hindustani tradition it is conventionally performed as the final piece of a concert, regardless of the time of day, as a way of gently closing the performance. In Carnatic music, Bhairavi is also a major raga with a similarly moving, compassionate character, though its exact note structure differs slightly from its Hindustani namesake.
+
+Raga: Malkauns
+
+Malkauns is a pentatonic (five-note) raga performed late at night. It omits the second and sixth notes entirely and uses a flattened third, sixth is absent, and seventh is flattened. It is known for a heavy, introspective, almost meditative mood, and is considered one of the most powerful and challenging ragas to render well because its sparse note set leaves little room to hide technical weaknesses.
+
+Raga: Darbari Kanada
+
+Darbari Kanada is a late-night raga said to have been a favorite of the Mughal court musician Tansen. It is known for its grave, majestic, and profound mood, achieved through slow oscillations (andolan) on the flattened third and flattened sixth notes. It is widely regarded as one of the most difficult ragas to master because of the subtlety of these note movements.
+
+Raga: Todi
+
+Todi is a late-morning raga built on the Todi thaat, using a flattened second, flattened third, raised fourth, and flattened sixth. It has an intense, poignant, and somewhat melancholic character and is considered technically demanding due to the number of altered notes it contains relative to the natural major scale.
+
+Raga: Hamsadhwani
+
+Hamsadhwani is a pentatonic raga shared by both the Carnatic and Hindustani traditions, though it originated in Carnatic music. It omits the fourth and sixth notes and has a bright, cheerful, uplifting quality. It is popular for compositions that invoke deities and is often used to open concerts and celebratory pieces.
+
+Raga: Kalyani (Carnatic) / Relation to Yaman
+
+Kalyani is the Carnatic equivalent of the Hindustani raga Yaman, built on the same underlying scale with a raised fourth note. It is one of the major melakarta ragas in Carnatic music and shares Yaman's serene, expansive character, though the ornamentation (gamaka) style and typical compositions differ substantially between the two traditions.
+
+Raga: Mohanam (Carnatic)
+
+Mohanam is a pentatonic Carnatic raga equivalent to the Hindustani raga Bhoop. It omits the fourth and seventh notes, producing a sweet, gentle, and universally pleasant sound. It is one of the most commonly used ragas for light and devotional Carnatic compositions.
+
+Time Theory of Ragas
+
+Hindustani music organizes many ragas according to a time-of-day theory (samay): ragas are loosely grouped into morning ragas (such as Bhairav and Todi), afternoon ragas, evening ragas (such as Yaman and Puriya Dhanashri), and night ragas (such as Malkauns and Darbari Kanada). The theory is based on the idea that certain intervals and note emphases suit the psychological and physiological state associated with each part of the day. Carnatic music does not follow this time theory as strictly.
+
+The Melakarta System (Carnatic)
+
+The melakarta system is a mathematically complete classification of all possible seven-note parent scales in Carnatic music, totaling exactly 72 melakarta ragas. Each melakarta is numbered and named using a mnemonic naming convention (katapayadi sankhya) that encodes its number directly into the syllables of its name. Every other Carnatic raga (called a janya, or 'derived,' raga) is understood as being built from one of these 72 parent scales, either by omitting notes, using different notes in ascent versus descent, or adding extra ornamental movement.
+
+The Thaat System (Hindustani)
+
+The Hindustani equivalent of the melakarta system is the thaat system, developed by musicologist V. N. Bhatkhande in the 20th century, which groups ragas under 10 parent scales: Bilawal, Kalyan, Khamaj, Bhairav, Poorvi, Marwa, Kafi, Asavari, Bhairavi, and Todi. Unlike the melakarta system, the thaat system is not exhaustive or fully systematic; it is a simplified teaching framework, and some ragas fit awkwardly into a single thaat.
+
+
+== What Is a Tala? ==
+
+A tala is the rhythmic framework that organizes a composition or improvisation into a repeating cycle of beats. Each tala has a fixed number of beats (matras) divided into sections (vibhags), some of which are stressed (tali, marked by a clap) and some of which are empty or unstressed (khali, marked by a wave of the hand). The first beat of a tala cycle is called the sam, and it is a central point of rhythmic resolution that both the soloist and the accompanying percussionist aim to land on together.
+
+Tala: Teentaal
+
+Teentaal is the most common tala in Hindustani music, consisting of 16 beats divided into four groups of four (4+4+4+4). The tali claps fall on beats 1, 5, and 13, while beat 9 is the khali (empty wave). Teentaal is extremely versatile and is used across khayal, thumri, light classical, and even some film music.
+
+Tala: Ektaal
+
+Ektaal has 12 beats divided into six groups of two (2+2+2+2+2+2). It is commonly used for slower, more serious khayal and dhrupad-style compositions and has a stately, measured feel compared to the brisker Teentaal.
+
+Tala: Jhaptaal
+
+Jhaptaal has 10 beats divided into an asymmetric pattern of 2+3+2+3. This irregular grouping gives it a distinctive lilting, uneven feel that is popular for medium-tempo compositions.
+
+Tala: Rupak Tala
+
+Rupak tala has 7 beats divided into 3+2+2. Unusually, its first beat (the sam) is a khali (empty) beat rather than a tali, which is unusual among common talas and gives performances in Rupak a distinctive rhythmic character.
+
+Tala: Adi Tala (Carnatic)
+
+Adi tala is the most widely used tala in Carnatic music, consisting of 8 beats grouped as 4+2+2, counted using a system of claps, waves, and finger counts rather than the vibhag/khali system used in Hindustani music. It underlies a very large proportion of Carnatic compositions, from simple geethams to complex kritis.
+
+
+== Composition Forms ==
+
+Geetham
+
+The geetham is the simplest Carnatic composition form taught to students, consisting of a single melodic line set to a simple tala with no rhythmic subdivisions or improvisation. It serves as a student's first exposure to singing an actual composed piece, after the exercise-only stage of varishais and alankaras.
+
+Varnam
+
+A varnam is a more advanced Carnatic composition that packs in the essential melodic and rhythmic phrases of a raga in a structured, sometimes two-speed format. Varnams are used both as advanced technical practice pieces and as concert openers, since singing one well demonstrates command over a raga's full range and characteristic phrases.
+
+Kriti and Bandish
+
+As covered under vocal styles, the kriti (Carnatic) and bandish (Hindustani, used within khayal) are the central fixed-composition forms that a soloist elaborates on. A kriti has three fixed sections (pallavi, anupallavi, charanam); a bandish is typically a two-part composition (sthayi and antara) that anchors a khayal performance.
+
+
+== Historical Treatises and Figures ==
+
+Natya Shastra
+
+The Natya Shastra, attributed to the sage Bharata Muni and estimated to date from roughly 200 BCE to 200 CE, is one of the oldest surviving Sanskrit texts on dramatic and musical theory in India. It discusses early concepts of shruti, swara, and jati (melodic modes), considered ancestral to the later raga system.
+
+Sangita Ratnakara
+
+The Sangita Ratnakara, written by Sharngadeva in the 13th century, is one of the most important medieval treatises on Indian music and is considered a common ancestor text for both the Hindustani and Carnatic traditions, since it predates their split into clearly separate systems.
+
+The Carnatic Music Trinity
+
+Tyagaraja, Muthuswami Dikshitar, and Syama Sastri, all born in the same region of present-day Tamil Nadu in the 18th century, are collectively revered as the Carnatic Music Trinity for the enormous and enduring body of kritis they composed, which still form the backbone of the standard Carnatic concert repertoire today.
+
+
+== Instruments of Indian Classical Music ==
+
+Tanpura
+
+The tanpura is a long-necked plucked string instrument that produces a continuous drone rather than a melody. It typically has four or five strings tuned to the tonic (Sa) and fifth (Pa) or fourth (Ma) of the raga being performed. Its purpose is to establish and reinforce the tonal center throughout a performance, giving the soloist a constant harmonic reference point. It is used in both Hindustani and Carnatic music, played continuously in the background rather than as a lead instrument.
+
+Sitar
+
+The sitar is a plucked string instrument central to Hindustani classical music, featuring a long hollow neck, movable frets, and a set of sympathetic strings beneath the main playing strings that resonate and add a shimmering overtone quality. It is capable of the pitch-bends (meend) essential to raga ornamentation. Ravi Shankar is among its most internationally known performers.
+
+Sarod
+
+The sarod is a fretless plucked string instrument with a shorter neck than the sitar and a metal fingerboard, played with a plectrum. Its fretless design allows for extremely smooth glides between notes, giving it a deep, resonant tone well suited to slow, expressive raga passages.
+
+Tabla
+
+The tabla is a pair of hand drums used as the primary rhythmic accompaniment in Hindustani classical music: a smaller wooden drum (dayan) played with the dominant hand for higher pitched sounds, and a larger metal or clay drum (bayan) played with the other hand for bass tones. Tabla players perform the tala cycle and often engage in improvised rhythmic dialogue with the soloist.
+
+Mridangam
+
+The mridangam is a two-headed barrel drum and the primary percussion instrument of Carnatic music, roughly equivalent in role to the tabla in Hindustani music. It is played with both hands and produces a wide range of tones used to articulate the tala.
+
+Veena
+
+The veena is an ancient plucked string instrument central to Carnatic music, with a long resonating body and a large gourd resonator. It is considered one of the oldest Indian instruments and is closely associated with the goddess Saraswati in Indian iconography.
+
+Bansuri
+
+The bansuri is a side-blown bamboo flute used in Hindustani classical music. Despite having no keys, skilled players use partial hole-covering and breath control to produce the microtonal bends needed for raga ornamentation. It is strongly associated with the god Krishna in Indian cultural tradition.
+
+Harmonium
+
+The harmonium is a hand-pumped reed organ that was introduced to India in the colonial era and later adapted for use in Indian classical music. It is widely used as a supporting instrument for vocal performances in both Hindustani and, to a lesser extent, Carnatic music, providing chordal or melodic support.
+
+
+== Vocal Styles and Gharanas ==
+
+Khayal
+
+Khayal is the dominant vocal genre in modern Hindustani classical music. It is a semi-improvised form built around a short fixed composition (bandish) that the singer uses as a springboard for extended melodic improvisation, rhythmic play, and ornamentation within the chosen raga and tala.
+
+Dhrupad
+
+Dhrupad is the oldest surviving form of Hindustani vocal music, characterized by a slow, austere, meditative alap (unmetered melodic introduction) followed by a composition set to a steady tala, usually accompanied by the pakhawaj drum rather than tabla. It is considered more rigorous and less ornamented than khayal.
+
+Thumri
+
+Thumri is a lighter, more romantic and expressive vocal genre in Hindustani music, often based on themes of love and devotion, particularly stories involving Krishna and Radha. It allows more textual and emotional freedom than khayal, with the singer emphasizing mood over strict raga discipline.
+
+Kriti (Carnatic)
+
+The kriti is the central compositional form in Carnatic music, a devotional song structure with three sections: pallavi (refrain), anupallavi (second theme), and charanam (verses). Kritis form the core repertoire of Carnatic concerts and are usually set in a specific raga and tala, composed by revered figures such as Tyagaraja, Muthuswami Dikshitar, and Syama Sastri, collectively known as the Carnatic Music Trinity.
+
+Gharana
+
+A gharana is a lineage-based school of Hindustani classical music, originating from a particular family, region, or teacher-student tradition, each with its own distinctive stylistic approach to raga rendering, ornamentation, and repertoire. Well-known gharanas include the Gwalior, Kirana, Jaipur-Atrauli, and Patiala gharanas.
